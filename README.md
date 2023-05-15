@@ -1,4 +1,5 @@
 # React useState
 
-### `git clone`
+### `git clone https://github.com/DmitriyShkredov/react-usestate.git`
+### `npm install`
 ### `npm start`
